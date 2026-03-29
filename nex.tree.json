@@ -1,0 +1,5 @@
+{
+  "nex.module.ts": "src/NexModule",
+  "controllers/nex.controller.ts": "src/NexModule/controllers",
+  "middlewares/global-logging.middleware.ts": "src/NexModule/middlewares"
+}
