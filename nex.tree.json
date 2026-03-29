@@ -1,0 +1,5 @@
+{
+  "nex.module.ts": "src/NexModule",
+  "controllers": "src/NexModule/controllers",
+  "middlewares": "src/NexModule/middlewares"
+}
