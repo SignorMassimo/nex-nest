@@ -1,0 +1,18 @@
+{
+  "name": "nex-nest",
+  "version": "0.0.8",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@nestjs/common": "^11.1.16",
+    "express": "^5.2.1"
+  }
+}
