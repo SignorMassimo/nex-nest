@@ -1,0 +1,16 @@
+{
+  "name": "nex-nest",
+  "version": "0.0.9",
+  "description": "NexModule structure",
+  "files": [
+    "recipes",
+    "src",
+    "package.json",
+    "tsconfig.json"
+  ],
+  "setup": {
+    "files": {
+      "src": "."
+    }
+  }
+}
